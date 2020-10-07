@@ -40,7 +40,7 @@
   <img alt="Redux" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redux.svg" width="30" height="30"/>
   <img alt="HTML5" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="30" height="30"/>
   <img alt="CSS" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" width="30" height="30"/>  
-   <img alt="mongoDB" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fspot.io%2Fblog%2Frun-mongodb-ec2-spot-instances%2F&psig=AOvVaw2h5h7MWCiMKhHI7VftxtzX&ust=1602178025142000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNi96rmAo-wCFQAAAAAdAAAAABAD" width="30" height="30"/>
+   <img alt="mongoDB" src="https://www.commvault.com/wp-content/uploads/2019/08/mongodb-logo2.jpg?quality=80&w=930" width="30" height="30"/>
 </p>
 
 ## &#x1f4c8; GitHub Stats
