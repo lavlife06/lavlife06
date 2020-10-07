@@ -38,11 +38,8 @@ Here are some ideas to get you started:
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>
   <img alt="React" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" width="30" height="30"/>
-  <img alt="Yarn" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/yarn.svg" width="30" height="30"/>
   <img alt="Node" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg" width="30" height="30"/>
   <img alt="Npm" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/npm.svg" width="30" height="30"/>
-  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/postgresql.svg" width="30" height="30"/>
-  <img alt="Django" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/django.svg" width="30" height="30"/>
   <img alt="Heroku" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/heroku.svg" width="30" height="30"/>
   <img alt="Redux" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redux.svg" width="30" height="30"/>
   <img alt="HTML5" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="30" height="30"/>
@@ -51,8 +48,8 @@ Here are some ideas to get you started:
   
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lavlife06&label=Profile Views&color=blue&style=plastic" alt="lavlife06" /></p>
+
 ## &#x1f4c8; GitHub Stats
 
 ![lavlife06 Github Stats](https://github-readme-stats.vercel.app/api?username=lavlife06&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)
-
-![lavlife06 github most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=lavlife06&show_icons=true&theme=dark&hide_langs_below=1)
