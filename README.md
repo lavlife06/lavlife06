@@ -34,6 +34,7 @@
 
 <p>
   <img alt="Python" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" width="30" height="30"/>
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
   <img alt="React" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" width="30" height="30"/>
   <img alt="Node" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg" width="30" height="30"/>
   <img alt="Npm" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/npm.svg" width="30" height="30"/>
