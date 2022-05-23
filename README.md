@@ -2,11 +2,9 @@
 
 ## About me!!!
 
-- 🔭 I’m currently pursuing engineering 4th year
 - 🌱 I'm a web and app developer (full stack)
 - 👯 I’m working on myself
 - 👨‍💻 Working on both front-end and back-end
-- 💬 Ask me about me
 - 📫 How to reach me: On mail : [lavsenghani@gmail.com](lavsenghani@gmail.com)
 - 😄 Fun fact: The Ctrl-Z is better than a time machine
 
